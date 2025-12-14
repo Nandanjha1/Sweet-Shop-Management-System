@@ -7,6 +7,7 @@ Admins can manage inventory by adding, updating, deleting, and restocking sweets
 This project follows clean coding practices, RESTful API design, JWT authentication, and role-based authorization, with a focus on real-world application design.
 
 🚀 Tech Stack
+
 **Frontend**
 
 ReactJS
@@ -138,7 +139,7 @@ JWT_SECRET=your_secret_key
 
 Run backend server:
 
-npm run dev
+node/nodemon server.js
 
 
 Backend will run at:
@@ -194,18 +195,10 @@ This will run all backend unit and integration tests.
 
 <img width="661" height="366" alt="Screenshot 2025-12-14 145507" src="https://github.com/user-attachments/assets/add9fecd-3d74-4dee-ac21-fefb276ed673" />
 <img width="654" height="396" alt="Screenshot 2025-12-14 145437" src="https://github.com/user-attachments/assets/ab7102c1-c1f6-428e-909c-c24ae8fff23c" />
-<img width="1866" height="874" alt="Screenshot 2025-12-14 145349" src="https://github.com/user-attachments/assets/1de2af04-6d3a-4c8d-90b3-d1b34420134c" />
-<img width="1866" height="535" alt="Screenshot 2025-12-14 145606" src="https://github.com/user-attachments/assets/54a66ffc-327f-438a-953b-305f9351d2e4" />
-
-
-
-Login Page
-
-Dashboard
-
-Admin Panel
-
-Purchase Flow
+<img width="1837" height="522" alt="Screenshot 2025-12-14 171204" src="https://github.com/user-attachments/assets/fca71fc2-a8b2-4707-99f1-f7553b7e093f" />
+<img width="1078" height="643" alt="Screenshot 2025-12-14 171247" src="https://github.com/user-attachments/assets/48815cf9-0a62-4cf3-97a2-375797d74d80" />
+<img width="1841" height="820" alt="Screenshot 2025-12-14 172841" src="https://github.com/user-attachments/assets/1548c424-5380-40ba-8ac2-4319993016f0" />
+<img width="1847" height="293" alt="Screenshot 2025-12-14 172752" src="https://github.com/user-attachments/assets/f06df02a-f2cc-4e17-b215-7be08730cd81" />
 
 🤖 My AI Usage
 
